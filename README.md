@@ -23,4 +23,4 @@ Initially, it faces forward, and the bot moves forward, but as soon as the bot s
 ![20220813_205031](https://github.com/ChiragKotian/Maze-solver-and-bluetooth-car/assets/117931123/04648ce1-c0b9-44b8-8ef7-f803aab0c055)
 
 ## Credits:
-_This was made by [me](https://chiragkotian.github.io), [Arpit](https://github.com/arpitguptagithub) and Aman Kumar._
+_This was made by [me](https://chiragkotian.github.io), [Arpit](https://github.com/arpitguptagithub) and [Aman Kumar](https://github.com/Amankumar8555)._
